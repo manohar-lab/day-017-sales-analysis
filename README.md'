@@ -1,0 +1,25 @@
+# Day 17 - Sales Data Analysis
+
+A Python-based data analysis project focused on extracting business insights from a sales dataset.
+
+## 🚀 Features
+- Loaded and processed sales dataset using Pandas
+- Calculated total sales
+- Performed category-wise aggregation using groupby
+- Identified top-performing category
+- Found highest selling product
+- Calculated average sales
+
+## 🧠 Concepts Learned
+- Data aggregation and grouping
+- Business data analysis
+- Identifying trends and insights
+- Using Pandas for real-world datasets
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+
+## ▶️ How to Run
+```bash
+python app.py
