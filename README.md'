@@ -10,6 +10,10 @@ A Python-based data analysis project focused on extracting business insights fro
 - Found highest selling product
 - Calculated average sales
 
+## 📈 Visualization
+- Bar chart for category-wise sales
+- Pie chart for sales distribution
+
 ## 🧠 Concepts Learned
 - Data aggregation and grouping
 - Business data analysis
